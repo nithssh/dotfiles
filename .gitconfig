@@ -1,0 +1,10 @@
+[user]
+	name = Nithish
+	email = nithssh@protonmail.com
+	signingkey = A295E7F0167B35438D3DD0717F557CD4C13CD14F
+[commit]
+#	gpgsign = true
+[credential]
+#	helper = store
+[init]
+	defaultBranch = main
